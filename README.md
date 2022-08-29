@@ -14,7 +14,7 @@ The purpose of the project is to assist Colorado Board of Elections in analyzing
  
  * How many votes were cast in this congressional election?
  
-        * The total number of votes in this election WAS 369,711.
+    * The total number of votes in this election WAS 369,711.
    
  * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
     - County Votes:
@@ -40,7 +40,7 @@ The purpose of the project is to assist Colorado Board of Elections in analyzing
  
    * The python script designed for this project determines the winner, votes counts and percantages for each candiadate and county. While this python script satisfies     the current requirement for this election,  with few modifications this script can be used for any election.
 
-    -  Possible modifications:
+     - Possible modifications:
        * The current script identifies the candidate name and county columns with coumn index hardcoded in th script which can be a problem if the data      changes.Conditions can be applied to determine the columns and related data.
 
        * Similarly, the location of the CSV file is hardcoded for accessing the data which can be a problem if the location changes! Interactive user input elements can be included for the user to specify the path to the file instead of hardcoding it.
