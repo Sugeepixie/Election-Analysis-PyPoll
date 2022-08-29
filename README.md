@@ -13,11 +13,8 @@ The purpose of the project is to assist Colorado Board of Elections in analyzing
  ![Election_Analysis_Challange_Terminal](https://user-images.githubusercontent.com/76926148/187254230-23d231a3-7eb6-443d-a021-d77e0390cd7e.PNG)
  
  * How many votes were cast in this congressional election?
-    The total number of votes in this election WAS 369,711.
-     -------------------------
-     Total Votes: 369,711
-     -------------------------
-
+        * The total number of votes in this election WAS 369,711.
+   
  * Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
     - County Votes:
         * Jefferson county has 10.5% total percentage with 38,855 votes
